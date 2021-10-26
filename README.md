@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank
-- 👀 I’m interested in designing Embedded Systems
-- 🌱 I’m currently learning IoT
+- 👀 I’m interested in IoT
+- 🌱 I’m currently learning BLE
 - 💞️ I’m looking for a company where i can utilize my skills
 - 📫 How to reach me ... mayanknarang124@gmail.com
 
